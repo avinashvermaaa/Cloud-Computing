@@ -1,0 +1,61 @@
+Login :- 
+    username : -
+    Password : - 
+
+--> I understand and Authorise
+--> Activate Cloud Shell
+    gcloud auth list
+    gcloud config list project
+
+// --------------- Task 1. Prepare your environment --------------- //
+   git clone \
+     https://github.com/GoogleCloudPlatform/data-science-on-gcp/
+
+   cd data-science-on-gcp/03_sqlstudio
+
+   export PROJECT_ID=$(gcloud info --format='value(config.project)')
+     export BUCKET=${PROJECT_ID}-ml
+
+   gsutil cp create_table.sql \
+     gs://$BUCKET/create_table.sql
+
+// --------------- Task 2. Create a Cloud SQL instance --------------- //
+
+    gcloud sql instances create flights \
+    --database-version=POSTGRES_13 --cpu=2 --memory=8GiB \
+    --region="REGION" --root-password=Passw0rd
+
+    export ADDRESS=$(curl -s http://ipecho.net/plain)/32
+
+    gcloud sql instances patch flights --authorized-networks $ADDRESS
+
+// --------------- Task 3. Add data to a Cloud SQL instance --------------- //
+  1. In your Cloud SQL instance page, click IMPORT.
+
+  2. In the Cloud Storage file field, click Browse, and then click the arrow opposite your bucket name, and then click 201501.csv.
+
+  3. Click Select.
+
+  4. Select CSV as File format.
+
+  5. Select the bts database and type in flights as your table.
+
+  6. Click IMPORT.
+
+//--------------- Task 4. Interact with the database --------------- //
+
+    gcloud sql connect flights --user=postgres
+
+    \c bts;
+
+    SELECT "Origin", COUNT(*) AS num_flights 
+      FROM flights GROUP BY "Origin" 
+      ORDER BY num_flights DESC 
+      LIMIT 5;
+  
+
+
+// Congratulations!
+// Now you know how to create tables and import text data that has been stored on Cloud Storage into Cloud SQL.
+
+    
