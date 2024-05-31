@@ -1,0 +1,3 @@
+echo "${GREEN}${BOLD}
+Task 3 Analyze and fix SCC vulnerability findings 1st Completed
+${RESET}"
