@@ -77,6 +77,5 @@ gcloud compute instances create us-test-03 \
 --machine-type e2-standard-2 \
 --tags ssh,http,rules
 
-echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
-
+echo "${RED}${BOLD}Congratulations${RESET}""${GREEN}${BOLD}You Have Successfully Completed the Lab !!!${RESET}""${YELLOW}${BOLD}Congratulations${RESET}"
 #-----------------------------------------------------TERMINATE----------------------------------------------------------#
