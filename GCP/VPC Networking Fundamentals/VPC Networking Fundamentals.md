@@ -6,9 +6,7 @@
 
 * Copy ZONE_1, ZONE_2, ZONE_3 from TASK 6
 ```
-export ZONE_1=
-export ZONE_2=
-export ZONE_3=
+export ZONE=
 ```
 ```
 curl -LO raw.githubusercontent.com/avinashvermaaa/Cloud-Computing/main/GCP/VPC%20Networking%20Fundamentals/gsp210.sh
