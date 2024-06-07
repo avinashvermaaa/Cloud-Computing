@@ -5,6 +5,7 @@ sudo chmod +x LABCODE.sh
 
 ./LABCODE.sh
 
+curl -LO raw.githubusercontent.com/avinashvermaaa/Cloud-Computing/main/GCP
 
 ### Congratulations 🎉  You Have Successfully Completed the Lab !
 
