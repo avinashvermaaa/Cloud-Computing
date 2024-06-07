@@ -12,6 +12,7 @@ export ZONE_3=
 ```
 ```
 curl -LO raw.githubusercontent.com/avinashvermaaa/Cloud-Computing/GCP/Loading%20Data%20into%20Cloud%20SQL/gsp016.sh
+curl -LO raw.githubusercontent.com/avinashvermaaa/Cloud-Computing/blob/main/GCP/Loading%20Data%20into%20Cloud%20SQL/gsp016.sh
 
 sudo chmod +x gsp016.sh
 
