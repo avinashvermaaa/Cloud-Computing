@@ -13,5 +13,8 @@ echo "${RED}${BOLD}Congratulations${RESET}""${GREEN}${BOLD} You Have Successfull
 #-----------------------------------------------------TERMINATE----------------------------------------------------------#
 
 
-Congratulations 🎉 You Have Successfully Completed the Lab !
-Well done! Keep up the good work 👏 !
+### Congratulations 🎉  You Have Successfully Completed the Lab !
+
+
+
+#### *Well done!* *Keep up the good work 👏 !*
