@@ -11,3 +11,7 @@ sudo chmod +x LABCODE.sh
 echo "${RED}${BOLD}Congratulations${RESET}""${GREEN}${BOLD} You Have Successfully Completed the Lab !!!${RESET}""${RED}${BOLD} DO SUBSCRIBE !${RESET}"
 
 #-----------------------------------------------------TERMINATE----------------------------------------------------------#
+
+
+Congratulations 🎉 You Have Successfully Completed the Lab !
+Well done! Keep up the good work 👏 !
