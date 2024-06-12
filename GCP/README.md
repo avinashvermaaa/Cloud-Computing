@@ -31,6 +31,7 @@ echo "${RED}${BOLD}Congratulations${RESET}""${GREEN}${BOLD} You Have Successfull
   ```
 * For `highlight`, type or paste `insert`
 * [youtube](https://www.youtube.com/)
+* bullet points using star
 
 
 
