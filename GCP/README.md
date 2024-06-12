@@ -22,3 +22,15 @@ echo "${RED}${BOLD}Congratulations${RESET}""${GREEN}${BOLD} You Have Successfull
 
 
 
+* For `Avi `, type or paste `insert`
+* [link]
+* # ok
+* > ok
+* ```
+  ok
+  ```
+
+
+
+
+
