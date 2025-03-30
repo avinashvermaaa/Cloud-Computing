@@ -1,0 +1,23 @@
+************************************** Skills Boost Arcade Trivia March 2025 Week 2 **************************************
+
+1.) Which fully managed, serverless enterprise data warehouse service does Google Cloud offer?
+	Bigquery
+2.) What command-line tool will you utilize to execute queries in BigQuery?
+	bq
+3.) Which tab in the Google Cloud Console allows you to view performance metrics for clusters and workloads?
+	Observability
+4.) To ensure that your resources are properly installed and functioning in Kubernetes Engine, 
+    which command should you execute?
+	make validate
+5.) Which roles in IAM are created and maintained by Google?
+	Predefined Roles
+
+6.) Which roles in IAM are user-defined and allow you to bundle one or more supported permissions to meet your 
+	specific requirements?
+	Custom Roles
+**************************************************************************************************************************
+
+
+
+
+

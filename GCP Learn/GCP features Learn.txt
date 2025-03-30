@@ -12,6 +12,10 @@ Cloud Run functions :-  Event-driven serverless functions
 Cloud Run :- 		Fully managed application platform
 
 **************************************************************************************************************************
+BigQuery :-
+	Which fully managed, serverless enterprise data warehouse service does Google Cloud offer?
+
+**************************************************************************************************************************
 Cloud Run :- 
 	Cloud Run is designed for containerised web applications.
 	Using Cloud Run, organizations can minimize time spent on infrastructure management.
