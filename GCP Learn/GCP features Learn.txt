@@ -3,6 +3,9 @@ Data is encrypted by default.
 Restrictions on data access and sharing
 
 
+
+IAM Roles :- Editor, Owner, Viewer, BigQuery Admin, Storage Admin, Storage Object Admin
+
 ************************* Resources *************************
 BigQuery :- 		Data warehouse/analytics
 SQL :- 			Managed MySQL, PostgreSQL, SQL Server
@@ -70,6 +73,7 @@ Data Mesh :-
 Looker :-
 	Looker is a business intelligence (BI) and data analytics platform.Its core strength lies in helping organizations 
 	explore, visualize, and understand data from various sources for enabling informed decision-making.
+	allows interactive data analysis and visualization
 
 **************************************************************************************************************************	
 Vertex AI :-

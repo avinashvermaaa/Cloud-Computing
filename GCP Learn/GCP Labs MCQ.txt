@@ -1,20 +1,51 @@
+
+done and dusted, easy pizzzyyyy
+
+
 ************************************** Skills Boost Arcade Trivia March 2025 Week 2 **************************************
 
 1.) Which fully managed, serverless enterprise data warehouse service does Google Cloud offer?
-	Bigquery
+	:- Bigquery
 2.) What command-line tool will you utilize to execute queries in BigQuery?
-	bq
+	:- bq
 3.) Which tab in the Google Cloud Console allows you to view performance metrics for clusters and workloads?
-	Observability
+	:- Observability
 4.) To ensure that your resources are properly installed and functioning in Kubernetes Engine, 
     which command should you execute?
-	make validate
+	:- make validate
 5.) Which roles in IAM are created and maintained by Google?
-	Predefined Roles
+	:- Predefined Roles
 
 6.) Which roles in IAM are user-defined and allow you to bundle one or more supported permissions to meet your 
 	specific requirements?
-	Custom Roles
+	:- Custom Roles
+**************************************************************************************************************************
+
+************************************** Skills Boost Arcade Trivia March 2025 Week 3 **************************************
+
+
+1.) Which true no-code platform does Google Cloud offer that allows anyone to build rich applications and 
+	automate processes without writing a single line of code?
+	:- AppSheet
+
+2.) Before creating your app in AppSheet, what essential components need to be provisioned for the app 
+	to manage effectively?	
+	:- Data
+
+
+3.) Which modern data platform does Google Cloud offer that allows for interactive data analysis and visualization?
+	:- Looker
+
+4.) What is the highest-level LookML object?
+	:- Project
+
+
+5.) Which command would you execute to create a Pub/Sub notification?
+	:- gsutil notification create
+
+6.) Which command would you execute to create a Pub/Sub subscription?
+	:- gcloud pubsub subscriptions create
+
 **************************************************************************************************************************
 
 
