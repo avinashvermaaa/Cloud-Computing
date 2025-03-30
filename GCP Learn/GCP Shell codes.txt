@@ -3,3 +3,5 @@ Gcp Profile 1(code6969nation@gmail.com) :- https://www.cloudskillsboost.google/p
 ***************************************************************************************
 Authorise :- 		gcloud auth list
 getting project :- 	gcloud config list project
+Set_Region :- 		gcloud config set compute/region us-west1
+Set_Zone :-		gcloud config set compute/zone us-west1-a
