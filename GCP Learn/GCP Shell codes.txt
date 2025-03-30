@@ -5,3 +5,6 @@ Authorise :- 		gcloud auth list
 getting project :- 	gcloud config list project
 Set_Region :- 		gcloud config set compute/region us-west1
 Set_Zone :-		gcloud config set compute/zone us-west1-a
+Create_file :- 		nano role-definition.yaml
+cd :-			change directory
+mkdir :-		make folder
