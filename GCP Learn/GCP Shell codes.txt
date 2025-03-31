@@ -1,0 +1,2 @@
+Authorise :- 		gcloud auth list
+getting project :- 	gcloud config list project
