@@ -1,0 +1,128 @@
+cloud spend is metered on a pay-per-use basis and therefore customers are paying for resources that they use.
+Data is encrypted by default.
+Restrictions on data access and sharing
+
+
+************************* Resources *************************
+BigQuery :- 		Data warehouse/analytics
+SQL :- 			Managed MySQL, PostgreSQL, SQL Server
+Compute Engine :- 	VMs, GPUs, TPUs, Disks
+Storage :- 		Multi-class multi-region object storage
+Cloud Run functions :-  Event-driven serverless functions
+Cloud Run :- 		Fully managed application platform
+
+**************************************************************************************************************************
+Cloud Run :- 
+	Cloud Run is designed for containerised web applications.
+	Using Cloud Run, organizations can minimize time spent on infrastructure management.
+
+	Ex:-
+	An organization is looking for a solution to help them build applications using their preferred programming lang.
+	and tools. They also want to minimize time spent on infrastructure management.
+
+**************************************************************************************************************************
+Dataproc :- 
+	Dataproc is a managed service for large-scale data processing using Apache Hadoop and Spark.
+
+**************************************************************************************************************************
+Pub/Sub :- (CI/CD) pipeline
+	Pub/Sub is a messaging service that can receive data from device streams such as sensors,
+	at the start of a data pipeline. It is a solution for events streaming ingestion. 
+	
+	Ex :- 
+	An organization wants to analyze data collected from a fleet of rental vehicles. 
+	Onboard sensors send location data every 30 seconds. They want to ingest this data. 
+	Which Google product or service should they use?
+
+**************************************************************************************************************************
+Confidentiality :-
+	Processes and policies around confidentiality help to ensure that only authorized people can access 
+	sensitive data.
+
+**************************************************************************************************************************
+Database :-
+	A database requires structured or semi-structured data and predefined schemas up front
+	Typically designed for specific applications, databases are optimized for structured data and may not efficiently 
+	handle the variety and volume of raw data that a data lake can accommodate.
+
+**************************************************************************************************************************
+Data Lake :-
+	A data lake is a centralized repository designed to store vast amounts of data in its raw, native format,
+	accommodating structured, semi-structured, and unstructured data types.
+
+**************************************************************************************************************************
+Data Warehouse :-
+	A data warehouse requires structured or semi-structured data and predefined schemas up front.
+	Primarily stores structured data that has been processed and organized for specific analytical purposes. 
+	It is less suited for handling raw, unstructured data.
+
+**************************************************************************************************************************
+Data Mesh :-
+	A data mesh is a decentralized approach to data architectures.
+	Represents a decentralized approach to data architecture, emphasizing domain-oriented data ownership & management. 
+	While it addresses organizational and scalability challenges,
+
+**************************************************************************************************************************	
+Looker :-
+	Looker is a business intelligence (BI) and data analytics platform.Its core strength lies in helping organizations 
+	explore, visualize, and understand data from various sources for enabling informed decision-making.
+
+**************************************************************************************************************************	
+Vertex AI :-
+	Vertex AI is the comprehensive platform designed specifically for developing, deploying, and managing custom 
+	AI models across the entire machine learning lifecycle.
+
+	Ex :- 
+	An organization needs a platform to create custom end-to-end artificial intelligence models.
+
+**************************************************************************************************************************	
+Cloud IAM :-
+	Cloud IAM provides fine-grained control over who can access cloud resources, and 
+	what actions can be performed upon those resources.
+
+	Ex :- 
+	An organization needs to control access for users and resources within Google Cloud. 
+
+**************************************************************************************************************************	
+Rehost :-
+	Rehosting allows a legacy application to be moved to the cloud without making any major changes to the application.
+	
+	Ex :- 
+	An organization is moving its operations to the cloud, but needs to migrate a legacy application 
+	without making any changes to the code.
+
+**************************************************************************************************************************	
+Cloud Functions :-
+	Cloud Functions is a simple service for hosting single-purpose functions that are executed in response to events, 
+	such as new orders being received. Cloud Functions is designed to run event-driven code.
+
+	Ex :- 
+	An organization has a small app that sends a mobile notification to a customer whenever a new order is 
+	placed on their website. They require a simple, event-driven, serverless service to host the code.
+
+**************************************************************************************************************************	
+Compue Engine :-
+	Compute Engine is Google Cloud’s Infrastructure as a Service product for running virtual machines.
+
+	Ex :- 
+	An organization wants to migrate multiple virtual machines to the cloud.
+
+Cloud Spanner :- 
+	Cloud Spanner makes it possible to easily scale horizontally across regions while also 
+	providing consistency and low latency.
+
+	Ex :-	
+	A global organization is developing an application to manage payments & online bank accounts in multiple regions.
+ 	Each transaction must be handled consistently in their database, and they anticipate almost unlimited growth 
+	in the amount of data stored. 
+
+Cloud Storage :-
+	loud Storage can store any data type and offers flexible storage classes and cost models, scalability, 
+	global accessibility, and robust security features.
+
+	Ex :- 
+	An organization wants an economical solution to store data such as files, graphical images, and videos and to
+	access and share them securely. 
+
+
+
