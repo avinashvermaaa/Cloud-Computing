@@ -16,8 +16,8 @@ MARCH 2025 :-
 4. Skills Boost Arcade Trivia March 2025 Week 4
 	https://www.cloudskillsboost.google/games/6006
 ----------------------------------------------------------------
-5. Skills Boost Arcade Base Camp March 2025
-	https://www.cloudskillsboost.google/games/5961
+5. Skills Boost Arcade Certification Zone March 2025
+	https://www.cloudskillsboost.google/games/5996
 ----------------------------------------------------------------
 6. Level 1: Security and Data Management with GCP
 	https://www.cloudskillsboost.google/games/5962

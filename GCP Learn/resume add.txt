@@ -1,0 +1,2 @@
+Generate Personalized Email Content with BigQuery Continuous Queries and Gemini
+	:- https://www.cloudskillsboost.google/games/5996/labs/38264
