@@ -1,6 +1,11 @@
 CDL Sample paper :-
 https://docs.google.com/forms/d/e/1FAIpQLSedAmf77MGS7FGEaylFzY51KtBd7kkIZJIMDsV5zSRSmpKIOA/viewscore?viewscore=AE0zAgCoue_9DB4ePAirL22kwpZrgCXidSI2KkwGjkr9KUgNCXffCGhPp8Kdpj1wyieOvWw
 
+Chronicle Platform URL: https://goo.gle/chroniclelab
+
+Chronicle SIEM: Outcomes & Functions (regex -> morphile)
+https://www.cloudskillsboost.google/games/5963/labs/38018
+
 ***************************************************************************************
 MARCH 2025 :-
 ***************************************************************************************
