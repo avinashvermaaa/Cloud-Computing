@@ -9,31 +9,63 @@ https://www.cloudskillsboost.google/games/5963/labs/38018
 ***************************************************************************************
 MARCH 2025 :-
 ***************************************************************************************
-1. Skills Boost Arcade Trivia March 2025 Week 1
+1. Skills Boost Arcade Trivia March 2025 Week 1					[done]
 	https://www.cloudskillsboost.google/games/5960
 
-2. Skills Boost Arcade Trivia March 2025 Week 2
+2. Skills Boost Arcade Trivia March 2025 Week 2					[done]
 	https://www.cloudskillsboost.google/games/5970
 
-3. Skills Boost Arcade Trivia March 2025 Week 3
+3. Skills Boost Arcade Trivia March 2025 Week 3					[done]
 	https://www.cloudskillsboost.google/games/5979
 
-4. Skills Boost Arcade Trivia March 2025 Week 4
+4. Skills Boost Arcade Trivia March 2025 Week 4					[done]
 	https://www.cloudskillsboost.google/games/6006
 ----------------------------------------------------------------
-5. Skills Boost Arcade Certification Zone March 2025
+5. Skills Boost Arcade Certification Zone March 2025				[done]
 	https://www.cloudskillsboost.google/games/5996
 ----------------------------------------------------------------
-6. Level 1: Security and Data Management with GCP
+6. Level 1: Security and Data Management with GCP				[no]
 	https://www.cloudskillsboost.google/games/5962
 
-7. Level 2: Security and Monitoring in GCP
+7. Level 2: Security and Monitoring in GCP					[done]
 	https://www.cloudskillsboost.google/games/5963
 
-8. Level 3: ACE App Dev
+8. Level 3: ACE App Dev								[done]
 	https://www.cloudskillsboost.google/games/5964
 ----------------------------------------------------------------
-9. Skills Boost Arcade Base Camp March 2025
+9. Skills Boost Arcade Base Camp March 2025					[no]
+	https://www.cloudskillsboost.google/games/5961
+----------------------------------------------------------------
+
+
+***************************************************************************************
+APRIL 2025 :-
+***************************************************************************************
+1. Skills Boost Arcade Trivia APRIL 2025 Week 1					
+	https://www.cloudskillsboost.google/games/5960
+
+2. Skills Boost Arcade Trivia APRIL 2025 Week 2					
+	https://www.cloudskillsboost.google/games/5970
+
+3. Skills Boost Arcade Trivia APRIL 2025 Week 3					
+	https://www.cloudskillsboost.google/games/5979
+
+4. Skills Boost Arcade Trivia APRIL 2025 Week 4					
+	https://www.cloudskillsboost.google/games/6006
+----------------------------------------------------------------
+5. Skills Boost Arcade Certification Zone APRIL 2025				
+	https://www.cloudskillsboost.google/games/5996
+----------------------------------------------------------------
+6. Level 1: Security and Data Management with GCP				
+	https://www.cloudskillsboost.google/games/5962
+
+7. Level 2: Security and Monitoring in GCP					
+	https://www.cloudskillsboost.google/games/5963
+
+8. Level 3: ACE App Dev								
+	https://www.cloudskillsboost.google/games/5964
+----------------------------------------------------------------
+9. Skills Boost Arcade Base Camp APRIL 2025					
 	https://www.cloudskillsboost.google/games/5961
 ----------------------------------------------------------------
 
