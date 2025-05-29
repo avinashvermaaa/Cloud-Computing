@@ -2,7 +2,10 @@ cloud spend is metered on a pay-per-use basis and therefore customers are paying
 Data is encrypted by default.
 Restrictions on data access and sharing
 
-
+google workspace :-
+https://www.cloudskillsboost.google/course_templates/676/labs/526824
+Set Up an App Dev Environment on Google Cloud: Challenge Lab :-
+https://www.cloudskillsboost.google/focuses/10379?parent=catalog
 
 IAM Roles :- Editor, Owner, Viewer, BigQuery Admin, Storage Admin, Storage Object Admin
 
