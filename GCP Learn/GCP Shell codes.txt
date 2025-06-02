@@ -11,3 +11,4 @@ Set_Zone :-		gcloud config set compute/zone us-west1-a
 Create_file :- 		nano role-definition.yaml
 cd :-			change directory
 mkdir :-		make folder
+enable api :-		gcloud services enable apiname.googleapis.com
